@@ -1,0 +1,33 @@
+h1{
+    color:aqua;
+    margin-left: 30px;
+    font-size: 40px;
+}
+.nav-bar{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    background-color: black;
+    padding: 30px;
+    font-size: 20px;
+}
+body{
+    margin: 20px;
+    background-color:rgb(25, 24, 24);
+    margin:0px;
+}
+.list-fact{
+    font-size: 25px;
+    font-weight: 200;
+    padding: 50px;
+    color:white;
+}
+.list-fact > li{
+    line-height: 55px;
+
+
+}
+main{
+    padding:15px;
+    color:white;
+}
